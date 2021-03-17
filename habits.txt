@@ -1,3 +1,4 @@
 1. programatori travia vela casu sedenim, treba vykonavat aktivity ako sport, ist na slnko
 a davat si pauzu,pit ekutiny aby ta nerezali oci
 2. sustred sa na hlavny ciel projektu a to co je tvoja praca 
+3. programator by sa mal snazit o pisanie kodu aby bol pochopitelny aj pre kolegov, zbytocne nekomplikovat veci
