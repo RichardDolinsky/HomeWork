@@ -5,3 +5,4 @@ a davat si pauzu,pit ekutiny aby ta nerezali oci
 4.pracuj aj v prostredi kde nie si vyrusovany tak sa sustredis viac a vykonas viac prace
 5. always be learning uc sa a zdokonaluj sa odid zo svojej konfortnej zony nestagnuj lebo stratis schopnost ladit a riesit chyby
 6. programovanie je podobne ako team sport, porad sa s kolegami nebud ticho 
+7. programatory travia vela casu o samote studovanim kodu, debugovanim chyb , treba si nato zvyknut 
