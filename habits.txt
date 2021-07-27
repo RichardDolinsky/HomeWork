@@ -8,7 +8,5 @@ a davat si pauzu,pit ekutiny aby ta nerezali oci
 7. programatory travia vela casu o samote studovanim kodu, debugovanim chyb , treba si nato zvyknut 
 ------------- ------------- -------------------- --------------------- -------------------------------
 
-
-0000000000000
-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+Auto
 
